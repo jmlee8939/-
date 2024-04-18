@@ -58,6 +58,7 @@
         "merge.C": "cpp",
         "Test.C": "cpp",
         "1764.C": "cpp",
-        "2751.C": "cpp"
+        "2751.C": "cpp",
+        "1269.C": "cpp"
     }
 }
